@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ethics",
+      "tensorShape": [
+        92101,
+        64
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+    }
+  ]
+}
