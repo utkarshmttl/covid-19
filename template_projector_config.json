@@ -6,8 +6,8 @@
         92101,
         64
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/utkarshmttl/covid-19/master/projector_embeddings.txt",
+      "metadataPath": "https://raw.githubusercontent.com/utkarshmttl/covid-19/master/projector_meta_trunc.txt"
     }
   ]
 }
